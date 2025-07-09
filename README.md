@@ -64,14 +64,6 @@ User Question → Streamlit UI → Embeddings → Pinecone Search → Gemini AI 
 3. Get AI-powered responses with source references
 4. View source documents for transparency
 
-## 🔄 Migration from Flask
-
-- ✅ Replaced Flask with Streamlit
-- ✅ Switched from OpenAI to Gemini
-- ✅ Added modern chat interface
-- ✅ Improved error handling
-- ✅ Added source document display
-
 ## 🐛 Troubleshooting
 
 1. **API Key Issues**: Verify your `.env` file has correct keys
