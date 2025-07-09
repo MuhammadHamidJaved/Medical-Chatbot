@@ -89,6 +89,7 @@ def main():
         st.header("⚙️ Settings")
         temperature = st.slider("Response Creativity", 0.0, 1.0, 0.4, 0.1)
         max_tokens = st.slider("Response Length", 100, 1000, 500, 50)
+        st.markdown("👨‍💻 Developed by Muhammad Hamid Javed")
     
     # Initialize the RAG chain
     try:
