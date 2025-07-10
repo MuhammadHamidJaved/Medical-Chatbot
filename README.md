@@ -1,4 +1,4 @@
-# 🏥 Medical Bot - Streamlit Version
+# 🏥 Medical Bot 
 
 A modern medical assistant powered by Google Gemini AI and medical knowledge base.
 
